@@ -11,4 +11,14 @@ A visualized ping tool based on flask | 一个基于flask的可视化ping工具
 
 Now navigate your browser to [http://localhost:5000](http://localhost:5000/) to see.
 
+
+
+**Notice**
+
 1. To run the app on a server address, change the host parameter in `app.run(host='0.0.0.0')`
+
+2. This program has only been tested in Windows 10 (python 3.7), Simplified Chinese.
+
+## Screenshot
+
+![](screenshot.png)
